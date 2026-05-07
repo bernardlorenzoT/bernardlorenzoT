@@ -5,9 +5,10 @@ I'm Bernard T. Lorenzo with a flair for coding and database management skills. I
 ---
 
 ## 🎓 Education
+
 **BS Information Technology**  
-:contentReference[oaicite:0]{index=0}  
-• 2026 – Present  
+New Era University  
+2021 – Present
 
 ---
 
