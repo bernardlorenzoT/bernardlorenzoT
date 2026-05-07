@@ -8,7 +8,7 @@ I'm Bernard T. Lorenzo with a flair for coding and database management skills. I
 
 **BS Information Technology**  
 New Era University  
-2021 – Present
+2026 – Present
 
 ---
 
