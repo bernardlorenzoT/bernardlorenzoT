@@ -36,5 +36,5 @@
 - HTML
 
 ## 📫 You may reach me at:
-LinkedIn: [Bernard Lorenzo](https://linkedin.com/in/your-profile)
+LinkedIn: [Bernard Lorenzo](LinkedIn: Not yet available)
 - **Email:** Bernard.Lorenzo@neu.edu.ph
