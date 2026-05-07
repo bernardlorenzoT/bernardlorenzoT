@@ -12,11 +12,12 @@ I'm Bernard T. Lorenzo with a flair for coding and database management skills. I
 ---
 
 ## 📜 Certifications
-• SQL and Relational Databases 101  
-• Oracle Cloud Infrastructure 2025 Certified Foundations Associate  
-• Oracle Data Platform 2025 Certified Foundations Associate  
-• Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
+## 📜 Certifications
 
+• [SQL and Relational Databases 101](https://example.com/sql-cert)  
+• [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://example.com/oci-foundations)  
+• [Oracle Data Platform 2025 Certified Foundations Associate](https://example.com/data-platform)  
+• [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://example.com/oci-ai)
 ---
 
 ## 💻 Skill Sets
