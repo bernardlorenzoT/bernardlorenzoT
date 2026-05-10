@@ -30,5 +30,5 @@ Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## You may reach me at:
 LinkedIn: Not yet available  
-Email: lorenzohansamboy@gmail.com
+Email:lorenzohansamboy@gmail.com
 
