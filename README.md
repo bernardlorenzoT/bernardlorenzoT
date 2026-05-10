@@ -30,5 +30,5 @@ Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## You may reach me at:
 LinkedIn: Not yet available  
-Email: Bernard.Lorenzo@neu.edu.ph  
+Email: lorenzohansamboy@gmail.com
 
